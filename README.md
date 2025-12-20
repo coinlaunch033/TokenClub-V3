@@ -84,7 +84,7 @@ The **[TokenClub Volume Bot](https://bot.tokenclub.fun)** is a non-custodial eng
 | Feature | Smithii.io | Orion Tools | TokenClub.fun 🏆 |
 | :--- | :--- | :--- | :--- |
 | **Token Creation** | ~0.5 SOL | ~0.5 SOL | **0.1 SOL** |
-| **Market ID** | ~3.0 SOL | ~2.8 SOL | **0.5 - 2.8 SOL** |
+| **Market ID** | ~3.0 SOL | ~2.8 SOL | **0.15 SOL** |
 | **Revoke Authority**| Paid | Paid | **Included/Cheaper** |
 | **Volume Bot** | Subscription | Limited | **Pay-per-use** |
 | **Source** | Closed | Closed | **Community Driven** |
