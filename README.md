@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co/6P0qXy2/tokclub-github-banner.png" alt="TokenClub - The Most Affordable Solana Token Ecosystem" width="100%" />
+<img src="./banner.png" alt="TokenClub - The Most Affordable Solana Token Ecosystem" width="100%" />
 
 # 🚀 TokenClub Ecosystem
 **The Economical "All-in-One" Solana Token Suite for Developers & Creators**
