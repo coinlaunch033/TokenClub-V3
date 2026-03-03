@@ -8,7 +8,7 @@
 [![Solana](https://img.shields.io/badge/Solana-Mainnet-green?logo=solana)](https://tokenclub.fun)
 [![Fees](https://img.shields.io/badge/Fees-0.1_SOL-blue)](https://tokenclub.fun)
 [![Status](https://img.shields.io/badge/Status-Live-brightgreen)](https://tokenclub.fun)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_Us-1DA1F2?logo=twitter)](https://twitter.com/YourHandle)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow_Us-1DA1F2?logo=twitter)](https://twitter.com/YourHandle](https://x.com/token_club1/))
 
 <p align="center">
   <a href="#-the-ecosystem">The Ecosystem</a> •
